@@ -4,7 +4,7 @@ SmartBite is an AI tool that identifies food dishes in photos, providing details
 
 <!-- TODO: añadir el artículo de Medium aquí una vez se publique -->
 
-## 🧠 The Project
+## 🚀 The Project
 
 It was created as a result of a final project for [AI Saturdays 🤖 ALICANTE][1], with the idea of developing an AI-based tool that recognizes a food dish in a photograph and identifies its ingredients, allergens, macronutrients, and calories (approximate per portion/grams) for that dish.
 
@@ -13,39 +13,46 @@ It could help improve people's health and well-being. By helping them be aware o
 
 ### 🧑🏻‍🍳 Authors
 
-<table align="center"">
+<table align="center" style="font-size:14px">
     <tbody>
         <tr>
             <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
                 <a href="https://github.com/sergiolms">
-                    <img src="https://avatars.githubusercontent.com/u/86774052?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Sergio L. Maciá Sempere"/>
+                    <img src="https://avatars.githubusercontent.com/u/86774052?v=4" width="100" height="auto" alt="Sergio L. Maciá Sempere"/>
                     <br />
-                    <sub style="font-size:14px"><b>Sergio Maciá</b></sub>
+                    <sub><b>Sergio Maciá</b></sub>
                 </a>
             </td>
             <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
                 <a href="https://github.com/Javier-Macia">
-                    <img src="https://avatars.githubusercontent.com/u/72144607?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Javier Maciá Sempere"/>
+                    <img src="https://avatars.githubusercontent.com/u/72144607?v=4" width="100" height="auto" alt="Javier Maciá Sempere"/>
                     <br />
-                    <sub style="font-size:14px"><b>Javier Maciá</b></sub>
+                    <sub><b>Javier Maciá</b></sub>
                 </a>
             </td>
             <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
                 <a href="https://github.com/adl23-ua">
-                    <img src="https://avatars.githubusercontent.com/u/123936715?v=4" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Antonio Díaz-Parreño Lajara"/>
+                    <img src="https://avatars.githubusercontent.com/u/123936715?v=4" width="100" height="auto" alt="Antonio Díaz-Parreño Lajara"/>
                     <br />
-                    <sub style="font-size:14px"><b>Antonio Díaz-Parreño</b></sub>
+                    <sub><b>Antonio Díaz-Parreño</b></sub>
                 </a>
             </td>
         </tr>
     </tbody>
 </table>
 
+## 🧠 About the Model
+
+- It was trained using the InceptionV3 model from the Keras library of Tensorflow.
+- Currently, the model has an approximate accuracy rate of 84% and a loss of 0.9252.
+- In the `model` folder, you can find a [more detailed document](model/README-en.md) about the model evaluation (scoring).
+- It was trained with 101 dishes that can be seen [here](datasource/meta/labels.txt).
+
 ## 🌿 Getting Started
 
 In the [`google-collab`](google-collab) folder, you can find a couple of Notebooks to train and use the model for making predictions. In the notebooks, you'll find the code divided into blocks and explained step by step.
 
-If you prefer to run it on your machine:
+If you prefer to run it on your machine, follow the instructions in the [Requirements](#️-requirements) section.
 
 ### ⚙️ Requirements
 
@@ -57,13 +64,13 @@ If you decide to download the project and run it on your machine, you will need:
     - Python v3.12.3 was used for development. You can install it [here][2]
 - Tensorflow v2.16.1, to run the model.
 - [Gradio][3], to generate a web interface from where to upload images.
-- [Git LFS][4], since the model weighs more than 100MB this is required for managing large files.
+- [Git LFS][4], since the model weighs more than 100MB, it is necessary to handle large files in git.
 
 ## 🏋🏻‍♂️ Train the Model
 
 If you want to train or fine-tune the model using the same project configuration, in the [`scripts`](scripts) folder you have the Python scripts used both to train the model and to use it for making predictions.
 
-## ☝️🤓 Datasource
+## ☝️🤓 Dataset
 
 The dataset used is called Food101. You can find more information in [`datasource/images`](datasource/images/README.md)
 
