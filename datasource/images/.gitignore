@@ -1,0 +1,4 @@
+*/*.jpg
+
+!license_agreement.txt
+!README.md
