@@ -9,6 +9,7 @@ from tensorflow.keras import regularizers
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Dense, Dropout
 from tensorflow.keras.layers import GlobalAveragePooling2D
+from tensorflow.keras.optimizers import SGD
 from tensorflow.keras.callbacks import ModelCheckpoint, CSVLogger
 
 # Here we load our project folder, that has the following structure:

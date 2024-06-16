@@ -14,9 +14,7 @@ print(tf.__version__)
 # !pip install gradio
 
 import os
-import re
 import json
-import random
 import tensorflow as tf
 import gradio as gr
 import numpy as np
