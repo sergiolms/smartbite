@@ -60,6 +60,7 @@ Si decides descargarte el proyecto y ejecutarlo en tu máquina, necesitarás:
     - Para el desarrollo fue utilizado Python v3.12.3. Puedes instalarlo [aquí][2]
 - Tensorflow v2.16.1, para ejecutar el modelo.
 - [Gradio][3], para generar una interfaz web desde donde cargar las imágenes.
+- [Git LFS][4], dado que el modelo pesa más de 100MB, es necesario para manejar archivos grandes en git.
 
 ## 🏋🏻‍♂️ Entrena el modelo
 
@@ -72,3 +73,4 @@ El dataset que se ha utilizado se llama Food101. Tienes más información en [`d
 [1]:https://saturdays.ai/alicante/
 [2]:https://www.python.org/downloads/release/python-3123/
 [3]:https://github.com/gradio-app/gradio
+[4]:https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage

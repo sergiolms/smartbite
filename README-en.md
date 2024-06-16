@@ -57,6 +57,7 @@ If you decide to download the project and run it on your machine, you will need:
     - Python v3.12.3 was used for development. You can install it [here][2]
 - Tensorflow v2.16.1, to run the model.
 - [Gradio][3], to generate a web interface from where to upload images.
+- [Git LFS][4], since the model weighs more than 100MB this is required for managing large files.
 
 ## 🏋🏻‍♂️ Train the Model
 
@@ -69,3 +70,4 @@ The dataset used is called Food101. You can find more information in [`datasourc
 [1]:https://saturdays.ai/alicante/
 [2]:https://www.python.org/downloads/release/python-3123/
 [3]:https://github.com/gradio-app/gradio
+[4]:https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage
