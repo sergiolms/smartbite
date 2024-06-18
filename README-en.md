@@ -2,6 +2,12 @@
 
 SmartBite is an AI tool that identifies food dishes in photos, providing details about ingredients, allergens, macronutrients, and calories. Improve your health and well-being with conscious and balanced eating. 🍽️🌿
 
+<div align="center">
+    <img src="https://github.com/sergiolms/smartbite/assets/86774052/897885e8-efca-400e-a679-73b6ab3f828b" alt="SmartBite Showcase gif" />
+    <br/>
+    <i>If your prefer it, <a href="https://github.com/sergiolms/smartbite/assets/86774052/36561ee5-0d07-437d-bf9c-9ebc00980083" target="_blank">here</a> is the video</i>
+</div>
+
 <!-- TODO: añadir el artículo de Medium aquí una vez se publique -->
 
 ## 🚀 The Project
