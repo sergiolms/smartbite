@@ -8,6 +8,10 @@ SmartBite is an AI tool that identifies food dishes in photos, providing details
     <i>If your prefer it, <a href="https://github.com/sergiolms/smartbite/assets/86774052/36561ee5-0d07-437d-bf9c-9ebc00980083" target="_blank">here</a> is the video</i>
 </div>
 
+## ✨ Live Demo ✨
+
+Try it now at the [GitHub Pages of this repository](https://sergiolms.github.io/smartbite/) or at [Hugging Face site](https://huggingface.co/spaces/sergiolms/smartbite).
+
 <!-- TODO: añadir el artículo de Medium aquí una vez se publique -->
 
 ## 🚀 The Project
