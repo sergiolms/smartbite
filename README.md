@@ -12,7 +12,7 @@ SmartBite es una herramienta de IA que identifica platos de comida en fotos, pro
 
 ## ✨ Demo en directo ✨
 
-Pruébalo en acción en las [GitHub Pages del repositorio](https://sergiolms.github.io/smartbite/) o en la [web de Hugging Face](https://huggingface.co/spaces/sergiolms/smartbite).
+Pruébalo en acción en las [GitHub Pages del repositorio][5] o en la [web de Hugging Face][6].
 
 <!-- TODO: añadir el artículo de Medium aquí una vez se publique -->
 
@@ -91,3 +91,5 @@ El dataset que se ha utilizado se llama Food101. Tienes más información en [`d
 [2]:https://www.python.org/downloads/release/python-3123/
 [3]:https://github.com/gradio-app/gradio
 [4]:https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage
+[5]:https://sergiolms.github.io/smartbite/
+[6]:https://huggingface.co/spaces/sergiolms/smartbite
