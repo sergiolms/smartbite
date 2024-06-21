@@ -1,0 +1,2842 @@
+{
+    "waffles": {
+        "name": "Waffles",
+        "kcal": 250,
+        "ingredients": [
+            "harina",
+            "huevos",
+            "leche",
+            "az\u00c3\u00bacar",
+            "mantequilla"
+        ],
+        "sugars": 14,
+        "fiber": 2,
+        "fat": 12,
+        "protein": 6,
+        "carbohydrates": 30,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1496.2281290916367,
+            "sugars_100g": 13.031253873072046,
+            "fiber_100g": 2.445089362029706,
+            "fat_100g": 21.808932045649023,
+            "proteins_100g": 7.2882311033021425,
+            "carbohydrates_100g": 33.9792502776578
+        }
+    },
+    "croque_madame": {
+        "name": "Croque Madame",
+        "kcal": 350,
+        "ingredients": [
+            "pan",
+            "jam\u00c3\u00b3n",
+            "queso",
+            "huevo",
+            "bechamel"
+        ],
+        "sugars": 3,
+        "fiber": 2,
+        "fat": 20,
+        "protein": 20,
+        "carbohydrates": 30,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1614.4081247272388,
+            "sugars_100g": 8.845907622390698,
+            "fiber_100g": 3.0489709601112374,
+            "fat_100g": 20.408658543498092,
+            "proteins_100g": 15.442614685025955,
+            "carbohydrates_100g": 34.7759944626828
+        }
+    },
+    "caesar_salad": {
+        "name": "Ensalada C\u00c3\u00a9sar",
+        "kcal": 180,
+        "ingredients": [
+            "lechuga",
+            "pollo",
+            "queso parmesano",
+            "croutons",
+            "salsa c\u00c3\u00a9sar"
+        ],
+        "sugars": 3,
+        "fiber": 3,
+        "fat": 12,
+        "protein": 15,
+        "carbohydrates": 10,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1283.5310234175195,
+            "sugars_100g": 2.7801891196422703,
+            "fiber_100g": 5.466900313772048,
+            "fat_100g": 14.602746664276742,
+            "proteins_100g": 13.660236611142848,
+            "carbohydrates_100g": 33.26858440619168
+        }
+    },
+    "macaroni_and_cheese": {
+        "name": "Macarrones con Queso",
+        "kcal": 400,
+        "ingredients": [
+            "macarrones",
+            "queso cheddar",
+            "leche",
+            "mantequilla"
+        ],
+        "sugars": 6,
+        "fiber": 2,
+        "fat": 25,
+        "protein": 15,
+        "carbohydrates": 40,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 3052.5111554621844,
+            "sugars_100g": 17.578018325508545,
+            "fiber_100g": 5.998053867019512,
+            "fat_100g": 45.24638290328372,
+            "proteins_100g": 18.45507136964931,
+            "carbohydrates_100g": 63.31201774625246
+        }
+    },
+    "takoyaki": {
+        "name": "Takoyaki",
+        "kcal": 280,
+        "ingredients": [
+            "harina",
+            "pulpo",
+            "huevo",
+            "cebolla verde",
+            "salsa takoyaki"
+        ],
+        "sugars": 3,
+        "fiber": 2,
+        "fat": 14,
+        "protein": 12,
+        "carbohydrates": 30,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "mariscos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1941.0541520975055,
+            "sugars_100g": 13.080559130953322,
+            "fiber_100g": 5.307737880797945,
+            "fat_100g": 15.084336861386562,
+            "proteins_100g": 14.11108414150278,
+            "carbohydrates_100g": 67.55518059988755
+        }
+    },
+    "chocolate_mousse": {
+        "name": "Mousse de Chocolate",
+        "kcal": 300,
+        "ingredients": [
+            "chocolate",
+            "nata",
+            "az\u00c3\u00bacar",
+            "huevos"
+        ],
+        "sugars": 30,
+        "fiber": 3,
+        "fat": 20,
+        "protein": 5,
+        "carbohydrates": 35,
+        "allergies": [
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1130.3367348264885,
+            "sugars_100g": 18.718107613814063,
+            "fiber_100g": 1.9856322083256783,
+            "fat_100g": 15.5380207388724,
+            "proteins_100g": 6.46781491860919,
+            "carbohydrates_100g": 26.27182964197603
+        }
+    },
+    "clam_chowder": {
+        "name": "Sopa de Almejas",
+        "kcal": 200,
+        "ingredients": [
+            "almejas",
+            "patatas",
+            "cebolla",
+            "apio",
+            "nata"
+        ],
+        "sugars": 4,
+        "fiber": 2,
+        "fat": 10,
+        "protein": 10,
+        "carbohydrates": 20,
+        "allergies": [
+            "mariscos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 250,
+        "nutrition": {
+            "energy_100g": 2461.172629042958,
+            "sugars_100g": 13.557884152693088,
+            "fiber_100g": 4.90436916924432,
+            "fat_100g": 27.665412370934735,
+            "proteins_100g": 16.65671126250587,
+            "carbohydrates_100g": 68.07359257171368
+        }
+    },
+    "ice_cream": {
+        "name": "Helado",
+        "kcal": 210,
+        "ingredients": [
+            "leche",
+            "nata",
+            "az\u00c3\u00bacar",
+            "saborizante"
+        ],
+        "sugars": 20,
+        "fiber": 1,
+        "fat": 12,
+        "protein": 3,
+        "carbohydrates": 24,
+        "allergies": [
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 827.7338564387504,
+            "sugars_100g": 18.860146855562167,
+            "fiber_100g": 1.4930768935225842,
+            "fat_100g": 8.000956856236874,
+            "proteins_100g": 3.862064127044656,
+            "carbohydrates_100g": 27.79932844553942
+        }
+    },
+    "omelette": {
+        "name": "Omelette",
+        "kcal": 150,
+        "ingredients": [
+            "huevos",
+            "leche",
+            "mantequilla",
+            "sal"
+        ],
+        "sugars": 1,
+        "fiber": 0,
+        "fat": 11,
+        "protein": 10,
+        "carbohydrates": 1,
+        "allergies": [
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1416.4654921539852,
+            "sugars_100g": 12.283980287685202,
+            "fiber_100g": 1.9635641245441056,
+            "fat_100g": 23.854587940821546,
+            "proteins_100g": 7.59033657548569,
+            "carbohydrates_100g": 24.123502755075407
+        }
+    },
+    "foie_gras": {
+        "name": "Foie Gras",
+        "kcal": 450,
+        "ingredients": [
+            "h\u00c3\u00adgado de pato",
+            "especias",
+            "licor"
+        ],
+        "sugars": 1,
+        "fiber": 0,
+        "fat": 45,
+        "protein": 10,
+        "carbohydrates": 3,
+        "allergies": [],
+        "portion": 50,
+        "nutrition": {
+            "energy_100g": 746.6998156089194,
+            "sugars_100g": 11.467092803030294,
+            "fiber_100g": 1.284451219512195,
+            "fat_100g": 9.41070367132867,
+            "proteins_100g": 3.0994726107226103,
+            "carbohydrates_100g": 19.769584048027447
+        }
+    },
+    "pad_thai": {
+        "name": "Pad Thai",
+        "kcal": 400,
+        "ingredients": [
+            "fideos de arroz",
+            "gambas",
+            "huevos",
+            "tofu",
+            "brotes de soja",
+            "cacahuetes"
+        ],
+        "sugars": 9,
+        "fiber": 4,
+        "fat": 15,
+        "protein": 20,
+        "carbohydrates": 50,
+        "allergies": [
+            "mariscos",
+            "huevos",
+            "cacahuetes"
+        ],
+        "portion": 250,
+        "nutrition": {
+            "energy_100g": 2638.500279899465,
+            "sugars_100g": 14.55060915901992,
+            "fiber_100g": 7.427918222368896,
+            "fat_100g": 31.276183890738437,
+            "proteins_100g": 26.83477384401936,
+            "carbohydrates_100g": 58.16633132639829
+        }
+    },
+    "tacos": {
+        "name": "Tacos",
+        "kcal": 200,
+        "ingredients": [
+            "tortilla de ma\u00c3\u00adz",
+            "carne",
+            "queso",
+            "salsa",
+            "vegetales"
+        ],
+        "sugars": 2,
+        "fiber": 3,
+        "fat": 10,
+        "protein": 12,
+        "carbohydrates": 20,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1389.8098828608283,
+            "sugars_100g": 6.748343248123753,
+            "fiber_100g": 3.7825144645639077,
+            "fat_100g": 19.315562862874337,
+            "proteins_100g": 14.151448800200301,
+            "carbohydrates_100g": 25.64187290052717
+        }
+    },
+    "sushi": {
+        "name": "Sushi",
+        "kcal": 250,
+        "ingredients": [
+            "arroz",
+            "pescado",
+            "alga nori",
+            "vinagre de arroz"
+        ],
+        "sugars": 5,
+        "fiber": 2,
+        "fat": 5,
+        "protein": 15,
+        "carbohydrates": 35,
+        "allergies": [
+            "pescado"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1067.4358567193676,
+            "sugars_100g": 10.486481596062823,
+            "fiber_100g": 3.522664285771052,
+            "fat_100g": 6.089292079207919,
+            "proteins_100g": 8.380149646603275,
+            "carbohydrates_100g": 40.36050198807156
+        }
+    },
+    "lobster_roll_sandwich": {
+        "name": "Sandwich de Langosta",
+        "kcal": 350,
+        "ingredients": [
+            "pan",
+            "langosta",
+            "mayonesa",
+            "apio",
+            "lim\u00c3\u00b3n"
+        ],
+        "sugars": 3,
+        "fiber": 2,
+        "fat": 20,
+        "protein": 25,
+        "carbohydrates": 30,
+        "allergies": [
+            "gluten",
+            "mariscos"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 2798.0415828323235,
+            "sugars_100g": 14.176615217398208,
+            "fiber_100g": 3.3608382274568096,
+            "fat_100g": 44.71529540420793,
+            "proteins_100g": 10.514097839218875,
+            "carbohydrates_100g": 56.31428521377024
+        }
+    },
+    "fried_rice": {
+        "name": "Arroz Frito",
+        "kcal": 300,
+        "ingredients": [
+            "arroz",
+            "huevos",
+            "vegetales",
+            "salsa de soja"
+        ],
+        "sugars": 3,
+        "fiber": 2,
+        "fat": 10,
+        "protein": 8,
+        "carbohydrates": 50,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "soja"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 1851.466229194115,
+            "sugars_100g": 17.205642623631746,
+            "fiber_100g": 4.741619312226078,
+            "fat_100g": 16.634034146011352,
+            "proteins_100g": 15.217548454802536,
+            "carbohydrates_100g": 56.43993616633956
+        }
+    },
+    "chicken_curry": {
+        "name": "Curry de Pollo",
+        "kcal": 450,
+        "ingredients": [
+            "pollo",
+            "leche de coco",
+            "curry en polvo",
+            "arroz",
+            "vegetales"
+        ],
+        "sugars": 5,
+        "fiber": 4,
+        "fat": 25,
+        "protein": 25,
+        "carbohydrates": 35,
+        "allergies": [],
+        "portion": 300,
+        "nutrition": {
+            "energy_100g": 2312.133454463109,
+            "sugars_100g": 13.848352965412069,
+            "fiber_100g": 7.819908979000099,
+            "fat_100g": 19.8801807520523,
+            "proteins_100g": 19.203979027738797,
+            "carbohydrates_100g": 73.46516257042339
+        }
+    },
+    "sashimi": {
+        "name": "Sashimi",
+        "kcal": 200,
+        "ingredients": [
+            "pescado crudo",
+            "salsa de soja",
+            "wasabi"
+        ],
+        "sugars": 0,
+        "fiber": 0,
+        "fat": 8,
+        "protein": 25,
+        "carbohydrates": 0,
+        "allergies": [
+            "pescado",
+            "soja"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 943.7473622951192,
+            "sugars_100g": 8.45820499964417,
+            "fiber_100g": 2.243308570198105,
+            "fat_100g": 9.227500001538184,
+            "proteins_100g": 8.746330080982442,
+            "carbohydrates_100g": 26.280550790637374
+        }
+    },
+    "macarons": {
+        "name": "Macarons",
+        "kcal": 150,
+        "ingredients": [
+            "almendra",
+            "az\u00c3\u00bacar",
+            "clara de huevo",
+            "colorante"
+        ],
+        "sugars": 20,
+        "fiber": 1,
+        "fat": 8,
+        "protein": 3,
+        "carbohydrates": 25,
+        "allergies": [
+            "huevos",
+            "frutos secos"
+        ],
+        "portion": 50,
+        "nutrition": {
+            "energy_100g": 535.7989316239317,
+            "sugars_100g": 7.278970689828694,
+            "fiber_100g": 8.122956141670429,
+            "fat_100g": 4.8878826618118625,
+            "proteins_100g": 4.9551625041426925,
+            "carbohydrates_100g": 17.633357129197734
+        }
+    },
+    "risotto": {
+        "name": "Risotto",
+        "kcal": 350,
+        "ingredients": [
+            "arroz Arborio",
+            "caldo",
+            "queso parmesano",
+            "vino blanco",
+            "cebolla",
+            "mantequilla"
+        ],
+        "sugars": 3,
+        "fiber": 2,
+        "fat": 15,
+        "protein": 10,
+        "carbohydrates": 45,
+        "allergies": [
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 2126.484520487265,
+            "sugars_100g": 7.680573343241015,
+            "fiber_100g": 3.040530809859155,
+            "fat_100g": 28.082595644068277,
+            "proteins_100g": 11.233461055647716,
+            "carbohydrates_100g": 53.29722757475083
+        }
+    },
+    "spaghetti_carbonara": {
+        "name": "Spaghetti Carbonara",
+        "kcal": 400,
+        "ingredients": [
+            "spaghetti",
+            "huevos",
+            "queso parmesano",
+            "panceta",
+            "pimienta negra"
+        ],
+        "sugars": 2,
+        "fiber": 3,
+        "fat": 18,
+        "protein": 15,
+        "carbohydrates": 50,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 250,
+        "nutrition": {
+            "energy_100g": 2616.886274509804,
+            "sugars_100g": 9.890298655580976,
+            "fiber_100g": 3.461577928997687,
+            "fat_100g": 38.685259812335644,
+            "proteins_100g": 23.878670532916615,
+            "carbohydrates_100g": 51.214319366660135
+        }
+    },
+    "pizza": {
+        "name": "Pizza",
+        "kcal": 300,
+        "ingredients": [
+            "harina",
+            "tomate",
+            "queso",
+            "levadura",
+            "aceite de oliva"
+        ],
+        "sugars": 4,
+        "fiber": 2,
+        "fat": 12,
+        "protein": 12,
+        "carbohydrates": 36,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1846.7548222598539,
+            "sugars_100g": 6.043470798908061,
+            "fiber_100g": 7.538035077208681,
+            "fat_100g": 25.141867553346685,
+            "proteins_100g": 18.551294062453486,
+            "carbohydrates_100g": 36.19658897171044
+        }
+    },
+    "hot_and_sour_soup": {
+        "name": "Sopa Agridulce",
+        "kcal": 100,
+        "ingredients": [
+            "caldo",
+            "tofu",
+            "setas",
+            "vinagre",
+            "salsa de soja",
+            "huevo"
+        ],
+        "sugars": 3,
+        "fiber": 2,
+        "fat": 5,
+        "protein": 6,
+        "carbohydrates": 10,
+        "allergies": [
+            "soja",
+            "huevos"
+        ],
+        "portion": 250,
+        "nutrition": {
+            "energy_100g": 1591.362855168907,
+            "sugars_100g": 13.983716454571866,
+            "fiber_100g": 4.675409690913792,
+            "fat_100g": 17.044310333237807,
+            "proteins_100g": 18.15660060907361,
+            "carbohydrates_100g": 37.56260487302695
+        }
+    },
+    "hamburger": {
+        "name": "Hamburguesa",
+        "kcal": 400,
+        "ingredients": [
+            "pan",
+            "carne de res",
+            "queso",
+            "lechuga",
+            "tomate",
+            "salsa"
+        ],
+        "sugars": 5,
+        "fiber": 3,
+        "fat": 20,
+        "protein": 25,
+        "carbohydrates": 30,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 1676.879867548553,
+            "sugars_100g": 9.917780048807737,
+            "fiber_100g": 6.881560310488999,
+            "fat_100g": 21.489754737848983,
+            "proteins_100g": 16.533831572085614,
+            "carbohydrates_100g": 36.09021091294086
+        }
+    },
+    "french_fries": {
+        "name": "Papas Fritas",
+        "kcal": 300,
+        "ingredients": [
+            "patatas",
+            "aceite",
+            "sal"
+        ],
+        "sugars": 1,
+        "fiber": 4,
+        "fat": 15,
+        "protein": 4,
+        "carbohydrates": 40,
+        "allergies": [],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 2561.226892685945,
+            "sugars_100g": 5.307369846102898,
+            "fiber_100g": 4.10880648533129,
+            "fat_100g": 45.70133096654809,
+            "proteins_100g": 11.88244268243366,
+            "carbohydrates_100g": 39.11961411924282
+        }
+    },
+    "pork_chop": {
+        "name": "Chuleta de Cerdo",
+        "kcal": 250,
+        "ingredients": [
+            "chuleta de cerdo",
+            "especias",
+            "aceite"
+        ],
+        "sugars": 0,
+        "fiber": 0,
+        "fat": 15,
+        "protein": 25,
+        "carbohydrates": 0,
+        "allergies": [],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 2416.594741837411,
+            "sugars_100g": 4.657320152915253,
+            "fiber_100g": 3.6169599303135893,
+            "fat_100g": 49.42530172262317,
+            "proteins_100g": 11.065781065088757,
+            "carbohydrates_100g": 25.454314199643626
+        }
+    },
+    "edamame": {
+        "name": "Edamame",
+        "kcal": 120,
+        "ingredients": [
+            "vainas de soja",
+            "sal"
+        ],
+        "sugars": 2,
+        "fiber": 5,
+        "fat": 5,
+        "protein": 11,
+        "carbohydrates": 10,
+        "allergies": [
+            "soja"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 815.2007812267381,
+            "sugars_100g": 4.08477558319519,
+            "fiber_100g": 3.9470386677829845,
+            "fat_100g": 9.72549932756571,
+            "proteins_100g": 10.618609717830006,
+            "carbohydrates_100g": 14.795432208342794
+        }
+    },
+    "beef_carpaccio": {
+        "name": "Carpaccio de Ternera",
+        "kcal": 200,
+        "ingredients": [
+            "ternera",
+            "aceite de oliva",
+            "parmesano",
+            "r\u00c3\u00bacula",
+            "lim\u00c3\u00b3n"
+        ],
+        "sugars": 0,
+        "fiber": 1,
+        "fat": 12,
+        "protein": 25,
+        "carbohydrates": 1,
+        "allergies": [
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1209.117076761304,
+            "sugars_100g": 1.790022031575764,
+            "fiber_100g": 1.394539671577655,
+            "fat_100g": 22.788943918481525,
+            "proteins_100g": 12.51212244421077,
+            "carbohydrates_100g": 9.796958038608624
+        }
+    },
+    "shrimp_and_grits": {
+        "name": "Camarones y Grits",
+        "kcal": 400,
+        "ingredients": [
+            "camarones",
+            "harina de ma\u00c3\u00adz",
+            "queso",
+            "mantequilla",
+            "especias"
+        ],
+        "sugars": 2,
+        "fiber": 3,
+        "fat": 20,
+        "protein": 25,
+        "carbohydrates": 40,
+        "allergies": [
+            "mariscos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 250,
+        "nutrition": {
+            "energy_100g": 3447.508795539098,
+            "sugars_100g": 8.290143203637237,
+            "fiber_100g": 5.2386804447262,
+            "fat_100g": 62.40773907073319,
+            "proteins_100g": 24.33404354191529,
+            "carbohydrates_100g": 46.38181286881759
+        }
+    },
+    "baklava": {
+        "name": "Baklava",
+        "kcal": 350,
+        "ingredients": [
+            "pasta filo",
+            "nueces",
+            "miel",
+            "mantequilla"
+        ],
+        "sugars": 30,
+        "fiber": 3,
+        "fat": 20,
+        "protein": 5,
+        "carbohydrates": 50,
+        "allergies": [
+            "gluten",
+            "frutos secos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1833.2331115646257,
+            "sugars_100g": 24.067604351909694,
+            "fiber_100g": 4.662349852115697,
+            "fat_100g": 27.595068693506818,
+            "proteins_100g": 6.251157403495335,
+            "carbohydrates_100g": 42.62789192000645
+        }
+    },
+    "frozen_yogurt": {
+        "name": "Yogur Helado",
+        "kcal": 150,
+        "ingredients": [
+            "yogur",
+            "az\u00c3\u00bacar",
+            "saborizante"
+        ],
+        "sugars": 20,
+        "fiber": 0,
+        "fat": 4,
+        "protein": 5,
+        "carbohydrates": 25,
+        "allergies": [
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 671.5553068823831,
+            "sugars_100g": 17.7926429768777,
+            "fiber_100g": 1.5303381450320517,
+            "fat_100g": 4.148858187628179,
+            "proteins_100g": 3.1647652593452285,
+            "carbohydrates_100g": 27.44236118361632
+        }
+    },
+    "oysters": {
+        "name": "Ostras",
+        "kcal": 70,
+        "ingredients": [
+            "ostras",
+            "lim\u00c3\u00b3n"
+        ],
+        "sugars": 0,
+        "fiber": 0,
+        "fat": 2,
+        "protein": 8,
+        "carbohydrates": 4,
+        "allergies": [
+            "mariscos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 0.0,
+            "sugars_100g": 0.0,
+            "fiber_100g": 0.0,
+            "fat_100g": 0.0,
+            "proteins_100g": 0.0,
+            "carbohydrates_100g": 0.0
+        }
+    },
+    "lobster_bisque": {
+        "name": "Bisque de Langosta",
+        "kcal": 250,
+        "ingredients": [
+            "langosta",
+            "nata",
+            "mantequilla",
+            "caldo",
+            "vino"
+        ],
+        "sugars": 2,
+        "fiber": 1,
+        "fat": 18,
+        "protein": 10,
+        "carbohydrates": 15,
+        "allergies": [
+            "mariscos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 1994.6934608681445,
+            "sugars_100g": 12.422165019170965,
+            "fiber_100g": 2.9324455695084968,
+            "fat_100g": 35.798626478053286,
+            "proteins_100g": 10.033229765787432,
+            "carbohydrates_100g": 32.093931660464875
+        }
+    },
+    "crab_cakes": {
+        "name": "Pasteles de Cangrejo",
+        "kcal": 200,
+        "ingredients": [
+            "cangrejo",
+            "pan rallado",
+            "huevo",
+            "mayonesa",
+            "especias"
+        ],
+        "sugars": 1,
+        "fiber": 1,
+        "fat": 12,
+        "protein": 15,
+        "carbohydrates": 10,
+        "allergies": [
+            "mariscos",
+            "huevos",
+            "gluten"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1231.4869325362138,
+            "sugars_100g": 3.442714023747714,
+            "fiber_100g": 2.1945017968657945,
+            "fat_100g": 16.23826527129979,
+            "proteins_100g": 7.798118456712446,
+            "carbohydrates_100g": 29.153510597606164
+        }
+    },
+    "garlic_bread": {
+        "name": "Pan de Ajo",
+        "kcal": 150,
+        "ingredients": [
+            "pan",
+            "ajo",
+            "mantequilla",
+            "perejil"
+        ],
+        "sugars": 1,
+        "fiber": 1,
+        "fat": 8,
+        "protein": 4,
+        "carbohydrates": 20,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 50,
+        "nutrition": {
+            "energy_100g": 684.2821408701559,
+            "sugars_100g": 3.6091768380516003,
+            "fiber_100g": 1.5002801396064662,
+            "fat_100g": 10.679290955560248,
+            "proteins_100g": 3.289063371800742,
+            "carbohydrates_100g": 13.715859983678595
+        }
+    },
+    "tiramisu": {
+        "name": "Tiramis\u00c3\u00ba",
+        "kcal": 300,
+        "ingredients": [
+            "bizcochos",
+            "queso mascarpone",
+            "caf\u00c3\u00a9",
+            "cacao",
+            "az\u00c3\u00bacar",
+            "huevos"
+        ],
+        "sugars": 25,
+        "fiber": 2,
+        "fat": 18,
+        "protein": 6,
+        "carbohydrates": 40,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos",
+            "huevos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 2411.342985780573,
+            "sugars_100g": 34.023291666138576,
+            "fiber_100g": 3.5554449196558213,
+            "fat_100g": 29.57694843233817,
+            "proteins_100g": 11.331918538662771,
+            "carbohydrates_100g": 64.5386490542259
+        }
+    },
+    "red_velvet_cake": {
+        "name": "Pastel de Terciopelo Rojo",
+        "kcal": 350,
+        "ingredients": [
+            "harina",
+            "az\u00c3\u00bacar",
+            "huevos",
+            "cacao",
+            "queso crema",
+            "colorante rojo"
+        ],
+        "sugars": 30,
+        "fiber": 2,
+        "fat": 18,
+        "protein": 5,
+        "carbohydrates": 45,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1308.8266414480258,
+            "sugars_100g": 14.237816443787448,
+            "fiber_100g": 3.070485873125662,
+            "fat_100g": 17.029085364195087,
+            "proteins_100g": 7.621227330255554,
+            "carbohydrates_100g": 32.318921221345946
+        }
+    },
+    "deviled_eggs": {
+        "name": "Huevos Rellenos",
+        "kcal": 200,
+        "ingredients": [
+            "huevos",
+            "mayonesa",
+            "mostaza",
+            "piment\u00c3\u00b3n"
+        ],
+        "sugars": 1,
+        "fiber": 0,
+        "fat": 18,
+        "protein": 8,
+        "carbohydrates": 2,
+        "allergies": [
+            "huevos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1162.9896466879554,
+            "sugars_100g": 7.26396504421544,
+            "fiber_100g": 1.159732417341113,
+            "fat_100g": 23.39940336688311,
+            "proteins_100g": 4.924947270203071,
+            "carbohydrates_100g": 11.712049322352273
+        }
+    },
+    "poutine": {
+        "name": "Poutine",
+        "kcal": 400,
+        "ingredients": [
+            "papas fritas",
+            "queso en grano",
+            "salsa de carne"
+        ],
+        "sugars": 2,
+        "fiber": 4,
+        "fat": 20,
+        "protein": 12,
+        "carbohydrates": 45,
+        "allergies": [
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 3910.695652173913,
+            "sugars_100g": 1.4702173913043477,
+            "fiber_100g": 7.240888888888889,
+            "fat_100g": 56.18550724637683,
+            "proteins_100g": 12.36985507246377,
+            "carbohydrates_100g": 100.88260869565218
+        }
+    },
+    "cheese_plate": {
+        "name": "Tabla de Quesos",
+        "kcal": 300,
+        "ingredients": [
+            "queso cheddar",
+            "queso brie",
+            "queso azul",
+            "frutas",
+            "frutos secos"
+        ],
+        "sugars": 6,
+        "fiber": 2,
+        "fat": 25,
+        "protein": 18,
+        "carbohydrates": 10,
+        "allergies": [
+            "l\u00c3\u00a1cteos",
+            "frutos secos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 2019.701175364611,
+            "sugars_100g": 10.239560809031783,
+            "fiber_100g": 4.344289463106518,
+            "fat_100g": 33.120524199818746,
+            "proteins_100g": 18.276299053386822,
+            "carbohydrates_100g": 27.626641932754247
+        }
+    },
+    "pho": {
+        "name": "Pho",
+        "kcal": 350,
+        "ingredients": [
+            "caldo de carne",
+            "fideos de arroz",
+            "carne de res",
+            "brotes de soja",
+            "hierbas"
+        ],
+        "sugars": 2,
+        "fiber": 3,
+        "fat": 10,
+        "protein": 25,
+        "carbohydrates": 45,
+        "allergies": [],
+        "portion": 500,
+        "nutrition": {
+            "energy_100g": 4460.2991756272395,
+            "sugars_100g": 10.178571428571427,
+            "fiber_100g": 19.650075187969925,
+            "fat_100g": 31.75032258064516,
+            "proteins_100g": 67.22826388888889,
+            "carbohydrates_100g": 137.64416666666668
+        }
+    },
+    "cannoli": {
+        "name": "Cannoli",
+        "kcal": 250,
+        "ingredients": [
+            "ricotta",
+            "az\u00c3\u00bacar",
+            "harina",
+            "chocolate",
+            "vainilla"
+        ],
+        "sugars": 20,
+        "fiber": 1,
+        "fat": 15,
+        "protein": 6,
+        "carbohydrates": 30,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1318.4394517926853,
+            "sugars_100g": 17.71738642247079,
+            "fiber_100g": 3.191194030937801,
+            "fat_100g": 12.594080628950877,
+            "proteins_100g": 7.300979608569641,
+            "carbohydrates_100g": 43.01209220615662
+        }
+    },
+    "lasagna": {
+        "name": "Lasa\u00c3\u00b1a",
+        "kcal": 400,
+        "ingredients": [
+            "pasta",
+            "carne molida",
+            "queso ricotta",
+            "salsa de tomate",
+            "queso mozzarella"
+        ],
+        "sugars": 8,
+        "fiber": 3,
+        "fat": 20,
+        "protein": 25,
+        "carbohydrates": 35,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 250,
+        "nutrition": {
+            "energy_100g": 2113.0534782471627,
+            "sugars_100g": 7.271649191935744,
+            "fiber_100g": 4.254825700923302,
+            "fat_100g": 26.67050921183213,
+            "proteins_100g": 27.361157577868134,
+            "carbohydrates_100g": 40.069993003611806
+        }
+    },
+    "gyoza": {
+        "name": "Gyoza",
+        "kcal": 200,
+        "ingredients": [
+            "harina",
+            "carne de cerdo",
+            "col",
+            "ajo",
+            "jengibre"
+        ],
+        "sugars": 2,
+        "fiber": 1,
+        "fat": 10,
+        "protein": 8,
+        "carbohydrates": 20,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1183.4148685942887,
+            "sugars_100g": 12.354920489112285,
+            "fiber_100g": 3.5585303100524968,
+            "fat_100g": 13.478906565022509,
+            "proteins_100g": 7.6825066448360815,
+            "carbohydrates_100g": 32.95220142766235
+        }
+    },
+    "eggs_benedict": {
+        "name": "Huevos Benedictinos",
+        "kcal": 450,
+        "ingredients": [
+            "huevos",
+            "pan",
+            "jam\u00c3\u00b3n",
+            "salsa holandesa",
+            "mantequilla"
+        ],
+        "sugars": 2,
+        "fiber": 2,
+        "fat": 35,
+        "protein": 18,
+        "carbohydrates": 20,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 3073.292405628485,
+            "sugars_100g": 19.57109237931778,
+            "fiber_100g": 4.392831861525087,
+            "fat_100g": 52.30198708167186,
+            "proteins_100g": 15.851187427562925,
+            "carbohydrates_100g": 51.681483447381936
+        }
+    },
+    "beignets": {
+        "name": "Beignets",
+        "kcal": 300,
+        "ingredients": [
+            "harina",
+            "az\u00c3\u00bacar",
+            "levadura",
+            "leche",
+            "mantequilla"
+        ],
+        "sugars": 20,
+        "fiber": 2,
+        "fat": 15,
+        "protein": 6,
+        "carbohydrates": 40,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1442.08802492497,
+            "sugars_100g": 10.033045539738714,
+            "fiber_100g": 6.1018750763154195,
+            "fat_100g": 18.34532093453791,
+            "proteins_100g": 11.490592214413255,
+            "carbohydrates_100g": 34.968972499880024
+        }
+    },
+    "filet_mignon": {
+        "name": "Filet Mignon",
+        "kcal": 250,
+        "ingredients": [
+            "filete de res",
+            "especias",
+            "mantequilla"
+        ],
+        "sugars": 0,
+        "fiber": 0,
+        "fat": 18,
+        "protein": 25,
+        "carbohydrates": 0,
+        "allergies": [],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 2668.370144878706,
+            "sugars_100g": 7.79469375,
+            "fiber_100g": 4.784969855719685,
+            "fat_100g": 50.5826304945055,
+            "proteins_100g": 8.935309065934067,
+            "carbohydrates_100g": 40.53720181940702
+        }
+    },
+    "prime_rib": {
+        "name": "Costillar de Res",
+        "kcal": 400,
+        "ingredients": [
+            "costillar de res",
+            "especias"
+        ],
+        "sugars": 0,
+        "fiber": 0,
+        "fat": 30,
+        "protein": 35,
+        "carbohydrates": 0,
+        "allergies": [],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 2428.689433962264,
+            "sugars_100g": 6.712499999999998,
+            "fiber_100g": 7.175609756097561,
+            "fat_100g": 38.176538461538456,
+            "proteins_100g": 14.371538461538462,
+            "carbohydrates_100g": 47.93849056603774
+        }
+    },
+    "caprese_salad": {
+        "name": "Ensalada Caprese",
+        "kcal": 200,
+        "ingredients": [
+            "tomates",
+            "mozzarella",
+            "albahaca",
+            "aceite de oliva",
+            "vinagre bals\u00c3\u00a1mico"
+        ],
+        "sugars": 5,
+        "fiber": 2,
+        "fat": 15,
+        "protein": 10,
+        "carbohydrates": 10,
+        "allergies": [
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1739.490121170205,
+            "sugars_100g": 5.53376169592667,
+            "fiber_100g": 3.270420494400879,
+            "fat_100g": 30.311090484851967,
+            "proteins_100g": 11.52964140929799,
+            "carbohydrates_100g": 24.16708828102859
+        }
+    },
+    "nachos": {
+        "name": "Nachos",
+        "kcal": 350,
+        "ingredients": [
+            "tortilla chips",
+            "queso",
+            "jalape\u00c3\u00b1os",
+            "carne",
+            "frijoles",
+            "salsa"
+        ],
+        "sugars": 3,
+        "fiber": 4,
+        "fat": 20,
+        "protein": 15,
+        "carbohydrates": 35,
+        "allergies": [
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 2159.135440411027,
+            "sugars_100g": 6.867123286398263,
+            "fiber_100g": 5.98314615842326,
+            "fat_100g": 29.02963963898627,
+            "proteins_100g": 16.833482320755145,
+            "carbohydrates_100g": 46.1244403041008
+        }
+    },
+    "carrot_cake": {
+        "name": "Pastel de Zanahoria",
+        "kcal": 400,
+        "ingredients": [
+            "zanahorias",
+            "harina",
+            "az\u00c3\u00bacar",
+            "huevos",
+            "queso crema",
+            "nueces"
+        ],
+        "sugars": 30,
+        "fiber": 3,
+        "fat": 20,
+        "protein": 6,
+        "carbohydrates": 50,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos",
+            "frutos secos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1673.5451372356217,
+            "sugars_100g": 14.894379366667044,
+            "fiber_100g": 5.410869969168994,
+            "fat_100g": 22.625454473476495,
+            "proteins_100g": 10.850883543607743,
+            "carbohydrates_100g": 39.24247455019719
+        }
+    },
+    "guacamole": {
+        "name": "Guacamole",
+        "kcal": 150,
+        "ingredients": [
+            "aguacate",
+            "cebolla",
+            "tomate",
+            "cilantro",
+            "lim\u00c3\u00b3n"
+        ],
+        "sugars": 2,
+        "fiber": 6,
+        "fat": 13,
+        "protein": 2,
+        "carbohydrates": 8,
+        "allergies": [],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 824.5310541059177,
+            "sugars_100g": 3.3241508290850597,
+            "fiber_100g": 4.9682034835344115,
+            "fat_100g": 13.45968559633355,
+            "proteins_100g": 3.987151485101255,
+            "carbohydrates_100g": 13.783315831336656
+        }
+    },
+    "samosa": {
+        "name": "Samosa",
+        "kcal": 300,
+        "ingredients": [
+            "harina",
+            "patata",
+            "guisantes",
+            "especias",
+            "aceite"
+        ],
+        "sugars": 2,
+        "fiber": 4,
+        "fat": 15,
+        "protein": 6,
+        "carbohydrates": 35,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 2125.6488457000787,
+            "sugars_100g": 5.952422195168728,
+            "fiber_100g": 5.489899680000169,
+            "fat_100g": 30.818144084134435,
+            "proteins_100g": 10.836661645435093,
+            "carbohydrates_100g": 46.85713546818805
+        }
+    },
+    "apple_pie": {
+        "name": "Pastel de Manzana",
+        "kcal": 350,
+        "ingredients": [
+            "manzanas",
+            "harina",
+            "az\u00c3\u00bacar",
+            "mantequilla",
+            "canela"
+        ],
+        "sugars": 25,
+        "fiber": 3,
+        "fat": 15,
+        "protein": 4,
+        "carbohydrates": 50,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 2244.4258657312926,
+            "sugars_100g": 19.732222461036493,
+            "fiber_100g": 7.302794598514332,
+            "fat_100g": 28.51818306362979,
+            "proteins_100g": 8.641037510696426,
+            "carbohydrates_100g": 63.15527728338196
+        }
+    },
+    "fried_calamari": {
+        "name": "Calamares Fritos",
+        "kcal": 250,
+        "ingredients": [
+            "calamares",
+            "harina",
+            "aceite",
+            "especias"
+        ],
+        "sugars": 1,
+        "fiber": 1,
+        "fat": 15,
+        "protein": 12,
+        "carbohydrates": 20,
+        "allergies": [
+            "mariscos",
+            "gluten"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1395.1862748301573,
+            "sugars_100g": 4.047101427956192,
+            "fiber_100g": 2.6856978814816226,
+            "fat_100g": 22.338027676151388,
+            "proteins_100g": 9.820793075094375,
+            "carbohydrates_100g": 24.50490169330167
+        }
+    },
+    "miso_soup": {
+        "name": "Sopa de Miso",
+        "kcal": 50,
+        "ingredients": [
+            "miso",
+            "tofu",
+            "alga wakame",
+            "cebolla verde"
+        ],
+        "sugars": 1,
+        "fiber": 1,
+        "fat": 2,
+        "protein": 5,
+        "carbohydrates": 5,
+        "allergies": [
+            "soja"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 1165.2002642642642,
+            "sugars_100g": 7.432611242504582,
+            "fiber_100g": 15.005972667093744,
+            "fat_100g": 9.989742195017337,
+            "proteins_100g": 18.590768878459848,
+            "carbohydrates_100g": 23.077899782342616
+        }
+    },
+    "panna_cotta": {
+        "name": "Panna Cotta",
+        "kcal": 250,
+        "ingredients": [
+            "nata",
+            "az\u00c3\u00bacar",
+            "vainilla",
+            "gelatina"
+        ],
+        "sugars": 20,
+        "fiber": 0,
+        "fat": 20,
+        "protein": 5,
+        "carbohydrates": 20,
+        "allergies": [
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1143.0785948802718,
+            "sugars_100g": 26.635673269043863,
+            "fiber_100g": 1.509611404703691,
+            "fat_100g": 8.395079964417251,
+            "proteins_100g": 8.972445612634754,
+            "carbohydrates_100g": 40.79938325993334
+        }
+    },
+    "steak": {
+        "name": "Bistec",
+        "kcal": 250,
+        "ingredients": [
+            "carne de res",
+            "especias"
+        ],
+        "sugars": 0,
+        "fiber": 0,
+        "fat": 15,
+        "protein": 25,
+        "carbohydrates": 0,
+        "allergies": [],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1716.8518710691824,
+            "sugars_100g": 4.63111607142857,
+            "fiber_100g": 5.026567944250871,
+            "fat_100g": 24.54620192307692,
+            "proteins_100g": 14.35099358974359,
+            "carbohydrates_100g": 35.23943396226415
+        }
+    },
+    "beef_tartare": {
+        "name": "Tartar de Ternera",
+        "kcal": 200,
+        "ingredients": [
+            "carne de res",
+            "alcaparras",
+            "cebolla",
+            "yema de huevo",
+            "especias"
+        ],
+        "sugars": 0,
+        "fiber": 0,
+        "fat": 12,
+        "protein": 20,
+        "carbohydrates": 1,
+        "allergies": [
+            "huevos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1159.994732148603,
+            "sugars_100g": 7.336328009777498,
+            "fiber_100g": 3.539703070557491,
+            "fat_100g": 14.602110536599852,
+            "proteins_100g": 9.538835226511942,
+            "carbohydrates_100g": 27.499354980254495
+        }
+    },
+    "chicken_quesadilla": {
+        "name": "Quesadilla de Pollo",
+        "kcal": 350,
+        "ingredients": [
+            "tortilla de trigo",
+            "pollo",
+            "queso",
+            "pimientos",
+            "cebolla"
+        ],
+        "sugars": 3,
+        "fiber": 4,
+        "fat": 18,
+        "protein": 20,
+        "carbohydrates": 30,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 1759.967564953562,
+            "sugars_100g": 7.254346999620783,
+            "fiber_100g": 6.8217538659614245,
+            "fat_100g": 19.504628463903295,
+            "proteins_100g": 17.62495793790033,
+            "carbohydrates_100g": 41.88409485843398
+        }
+    },
+    "cup_cakes": {
+        "name": "Cupcakes",
+        "kcal": 300,
+        "ingredients": [
+            "harina",
+            "az\u00c3\u00bacar",
+            "huevos",
+            "mantequilla",
+            "vainilla"
+        ],
+        "sugars": 25,
+        "fiber": 1,
+        "fat": 15,
+        "protein": 4,
+        "carbohydrates": 40,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1506.5364001447388,
+            "sugars_100g": 13.315006006947993,
+            "fiber_100g": 2.5586707275729466,
+            "fat_100g": 21.06907635537696,
+            "proteins_100g": 7.0124323294875435,
+            "carbohydrates_100g": 36.36455920983354
+        }
+    },
+    "bruschetta": {
+        "name": "Bruschetta",
+        "kcal": 150,
+        "ingredients": [
+            "pan",
+            "tomate",
+            "albahaca",
+            "ajo",
+            "aceite de oliva"
+        ],
+        "sugars": 3,
+        "fiber": 2,
+        "fat": 7,
+        "protein": 4,
+        "carbohydrates": 20,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 80,
+        "nutrition": {
+            "energy_100g": 907.3353745817373,
+            "sugars_100g": 5.0516514825504615,
+            "fiber_100g": 2.0078081324902506,
+            "fat_100g": 14.637435314473448,
+            "proteins_100g": 5.486758271898108,
+            "carbohydrates_100g": 15.672966660430788
+        }
+    },
+    "club_sandwich": {
+        "name": "Club S\u00c3\u00a1ndwich",
+        "kcal": 400,
+        "ingredients": [
+            "pan",
+            "pollo",
+            "tocino",
+            "lechuga",
+            "tomate",
+            "mayonesa"
+        ],
+        "sugars": 5,
+        "fiber": 3,
+        "fat": 20,
+        "protein": 25,
+        "carbohydrates": 35,
+        "allergies": [
+            "gluten",
+            "huevos"
+        ],
+        "portion": 250,
+        "nutrition": {
+            "energy_100g": 2531.681288751398,
+            "sugars_100g": 9.579056283320734,
+            "fiber_100g": 8.675840081300176,
+            "fat_100g": 41.750969651956396,
+            "proteins_100g": 21.821642639203663,
+            "carbohydrates_100g": 35.10220907253978
+        }
+    },
+    "churros": {
+        "name": "Churros",
+        "kcal": 250,
+        "ingredients": [
+            "harina",
+            "agua",
+            "az\u00c3\u00bacar",
+            "aceite"
+        ],
+        "sugars": 10,
+        "fiber": 1,
+        "fat": 10,
+        "protein": 4,
+        "carbohydrates": 35,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1242.9857379686825,
+            "sugars_100g": 4.894482905129944,
+            "fiber_100g": 2.144295404365034,
+            "fat_100g": 19.392173047823565,
+            "proteins_100g": 6.663058173244079,
+            "carbohydrates_100g": 25.08544358645
+        }
+    },
+    "tuna_tartare": {
+        "name": "Tartar de At\u00c3\u00ban",
+        "kcal": 200,
+        "ingredients": [
+            "at\u00c3\u00ban",
+            "soja",
+            "aguacate",
+            "s\u00c3\u00a9samo",
+            "aceite de s\u00c3\u00a9samo"
+        ],
+        "sugars": 1,
+        "fiber": 2,
+        "fat": 12,
+        "protein": 20,
+        "carbohydrates": 5,
+        "allergies": [
+            "pescado",
+            "soja",
+            "s\u00c3\u00a9samo"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1350.6938752723313,
+            "sugars_100g": 5.495263139773938,
+            "fiber_100g": 5.8671242816777065,
+            "fat_100g": 26.196623102294783,
+            "proteins_100g": 7.755972976487224,
+            "carbohydrates_100g": 12.651326945768252
+        }
+    },
+    "donuts": {
+        "name": "Donuts",
+        "kcal": 300,
+        "ingredients": [
+            "harina",
+            "az\u00c3\u00bacar",
+            "huevos",
+            "leche",
+            "mantequilla"
+        ],
+        "sugars": 20,
+        "fiber": 1,
+        "fat": 15,
+        "protein": 5,
+        "carbohydrates": 40,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 80,
+        "nutrition": {
+            "energy_100g": 1196.9825032733095,
+            "sugars_100g": 10.425003098457637,
+            "fiber_100g": 1.956071489623765,
+            "fat_100g": 17.44714563651922,
+            "proteins_100g": 5.830584882641714,
+            "carbohydrates_100g": 27.183400222126238
+        }
+    },
+    "beet_salad": {
+        "name": "Ensalada de Remolacha",
+        "kcal": 150,
+        "ingredients": [
+            "remolacha",
+            "queso de cabra",
+            "nueces",
+            "r\u00c3\u00bacula",
+            "vinagreta"
+        ],
+        "sugars": 8,
+        "fiber": 4,
+        "fat": 10,
+        "protein": 5,
+        "carbohydrates": 12,
+        "allergies": [
+            "l\u00c3\u00a1cteos",
+            "frutos secos"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 2326.0494632853142,
+            "sugars_100g": 16.183002886002885,
+            "fiber_100g": 8.18632738095238,
+            "fat_100g": 40.413182723089236,
+            "proteins_100g": 15.683344847939175,
+            "carbohydrates_100g": 37.00596643657463
+        }
+    },
+    "seaweed_salad": {
+        "name": "Ensalada de Algas",
+        "kcal": 100,
+        "ingredients": [
+            "algas",
+            "s\u00c3\u00a9samo",
+            "vinagre de arroz",
+            "soja"
+        ],
+        "sugars": 4,
+        "fiber": 3,
+        "fat": 5,
+        "protein": 3,
+        "carbohydrates": 10,
+        "allergies": [
+            "soja",
+            "s\u00c3\u00a9samo"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 808.0454835148876,
+            "sugars_100g": 8.481842093182625,
+            "fiber_100g": 12.295305076674026,
+            "fat_100g": 5.990665401529856,
+            "proteins_100g": 11.078052497145329,
+            "carbohydrates_100g": 19.585767963845502
+        }
+    },
+    "ceviche": {
+        "name": "Ceviche",
+        "kcal": 150,
+        "ingredients": [
+            "pescado",
+            "lim\u00c3\u00b3n",
+            "cebolla",
+            "cilantro",
+            "aji"
+        ],
+        "sugars": 2,
+        "fiber": 1,
+        "fat": 5,
+        "protein": 20,
+        "carbohydrates": 5,
+        "allergies": [
+            "pescado"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1161.3981318250758,
+            "sugars_100g": 7.703460601435291,
+            "fiber_100g": 6.340977008928572,
+            "fat_100g": 13.196561665733098,
+            "proteins_100g": 9.742373325224651,
+            "carbohydrates_100g": 28.010319135490395
+        }
+    },
+    "chicken_wings": {
+        "name": "Alitas de pollo",
+        "kcal": 290,
+        "ingredients": [
+            "pollo",
+            "aceite",
+            "especias"
+        ],
+        "sugars": 1,
+        "fiber": 0,
+        "fat": 19,
+        "protein": 26,
+        "carbohydrates": 0,
+        "allergies": [
+            "pollo"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1327.7274698021345,
+            "sugars_100g": 2.671850545926332,
+            "fiber_100g": 2.1398304499569516,
+            "fat_100g": 24.91789537288523,
+            "proteins_100g": 8.666712923240185,
+            "carbohydrates_100g": 15.88947330880005
+        }
+    },
+    "fish_and_chips": {
+        "name": "Pescado y papas fritas",
+        "kcal": 600,
+        "ingredients": [
+            "pescado",
+            "papas",
+            "harina",
+            "aceite"
+        ],
+        "sugars": 2,
+        "fiber": 4,
+        "fat": 30,
+        "protein": 25,
+        "carbohydrates": 60,
+        "allergies": [
+            "pescado",
+            "gluten"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 2922.8091712692517,
+            "sugars_100g": 7.658605350020791,
+            "fiber_100g": 5.809841596581245,
+            "fat_100g": 42.52354131052074,
+            "proteins_100g": 16.089138467786285,
+            "carbohydrates_100g": 65.08862967690543
+        }
+    },
+    "hummus": {
+        "name": "Hummus",
+        "kcal": 166,
+        "ingredients": [
+            "garbanzos",
+            "aceite de oliva",
+            "s\u00c3\u00a9samo",
+            "ajo",
+            "lim\u00c3\u00b3n"
+        ],
+        "sugars": 0,
+        "fiber": 4,
+        "fat": 10,
+        "protein": 8,
+        "carbohydrates": 14,
+        "allergies": [
+            "s\u00c3\u00a9samo"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1199.3801519577123,
+            "sugars_100g": 4.779035372976046,
+            "fiber_100g": 3.7248906719105803,
+            "fat_100g": 21.39150054049415,
+            "proteins_100g": 6.861727635785663,
+            "carbohydrates_100g": 16.19559248416791
+        }
+    },
+    "chocolate_cake": {
+        "name": "Pastel de chocolate",
+        "kcal": 350,
+        "ingredients": [
+            "harina",
+            "az\u00c3\u00bacar",
+            "cacao",
+            "huevos",
+            "mantequilla"
+        ],
+        "sugars": 30,
+        "fiber": 2,
+        "fat": 15,
+        "protein": 5,
+        "carbohydrates": 50,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1642.1062680714026,
+            "sugars_100g": 15.25313995569221,
+            "fiber_100g": 3.4010722245676477,
+            "fat_100g": 23.722440342550065,
+            "proteins_100g": 7.313448650601876,
+            "carbohydrates_100g": 37.78878323433296
+        }
+    },
+    "peking_duck": {
+        "name": "Pato pekin\u00c3\u00a9s",
+        "kcal": 337,
+        "ingredients": [
+            "pato",
+            "especias",
+            "salsa hoisin",
+            "tortillas de arroz"
+        ],
+        "sugars": 3,
+        "fiber": 1,
+        "fat": 28,
+        "protein": 15,
+        "carbohydrates": 7,
+        "allergies": [
+            "soja",
+            "gluten"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1334.172358490566,
+            "sugars_100g": 2.567013888888888,
+            "fiber_100g": 1.9439024390243902,
+            "fat_100g": 24.333023504273502,
+            "proteins_100g": 7.63732905982906,
+            "carbohydrates_100g": 18.551289308176102
+        }
+    },
+    "onion_rings": {
+        "name": "Aros de cebolla",
+        "kcal": 411,
+        "ingredients": [
+            "cebolla",
+            "harina",
+            "aceite",
+            "huevos"
+        ],
+        "sugars": 7,
+        "fiber": 3,
+        "fat": 22,
+        "protein": 6,
+        "carbohydrates": 45,
+        "allergies": [
+            "gluten",
+            "huevos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1325.8096653523164,
+            "sugars_100g": 7.73677357896125,
+            "fiber_100g": 2.3669051441122844,
+            "fat_100g": 19.9788462857111,
+            "proteins_100g": 7.653916981803045,
+            "carbohydrates_100g": 27.157102646448763
+        }
+    },
+    "breakfast_burrito": {
+        "name": "Burrito de desayuno",
+        "kcal": 305,
+        "ingredients": [
+            "tortilla",
+            "huevos",
+            "tocino",
+            "queso",
+            "papas"
+        ],
+        "sugars": 2,
+        "fiber": 3,
+        "fat": 17,
+        "protein": 12,
+        "carbohydrates": 25,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 2140.6884531297774,
+            "sugars_100g": 6.949560097111806,
+            "fiber_100g": 4.333808028902242,
+            "fat_100g": 30.912200695754667,
+            "proteins_100g": 16.804535555092286,
+            "carbohydrates_100g": 41.94288138623922
+        }
+    },
+    "ravioli": {
+        "name": "Raviolis",
+        "kcal": 290,
+        "ingredients": [
+            "harina",
+            "queso ricotta",
+            "espinacas",
+            "salsa de tomate"
+        ],
+        "sugars": 4,
+        "fiber": 2,
+        "fat": 12,
+        "protein": 10,
+        "carbohydrates": 30,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1168.0119381025488,
+            "sugars_100g": 7.326632772194042,
+            "fiber_100g": 4.925138732065639,
+            "fat_100g": 9.001669668801911,
+            "proteins_100g": 10.896512202795051,
+            "carbohydrates_100g": 39.059296403641355
+        }
+    },
+    "strawberry_shortcake": {
+        "name": "Pastel de fresa",
+        "kcal": 260,
+        "ingredients": [
+            "harina",
+            "fresas",
+            "az\u00c3\u00bacar",
+            "nata"
+        ],
+        "sugars": 25,
+        "fiber": 1,
+        "fat": 12,
+        "protein": 4,
+        "carbohydrates": 35,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 120,
+        "nutrition": {
+            "energy_100g": 939.1782740128858,
+            "sugars_100g": 11.734018801700937,
+            "fiber_100g": 3.0215157979791596,
+            "fat_100g": 6.0462902449448945,
+            "proteins_100g": 6.067740718841669,
+            "carbohydrates_100g": 36.48303233952974
+        }
+    },
+    "escargots": {
+        "name": "Caracoles",
+        "kcal": 200,
+        "ingredients": [
+            "caracoles",
+            "mantequilla",
+            "ajo",
+            "perejil"
+        ],
+        "sugars": 0,
+        "fiber": 0,
+        "fat": 18,
+        "protein": 12,
+        "carbohydrates": 2,
+        "allergies": [
+            "mariscos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1208.616832010582,
+            "sugars_100g": 4.889696117192367,
+            "fiber_100g": 2.265929920678248,
+            "fat_100g": 18.805257390414187,
+            "proteins_100g": 9.569814394773323,
+            "carbohydrates_100g": 20.781530738081024
+        }
+    },
+    "scallops": {
+        "name": "Vieiras",
+        "kcal": 110,
+        "ingredients": [
+            "vieiras",
+            "mantequilla",
+            "ajo",
+            "perejil"
+        ],
+        "sugars": 0,
+        "fiber": 0,
+        "fat": 5,
+        "protein": 15,
+        "carbohydrates": 3,
+        "allergies": [
+            "mariscos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1441.4891093474425,
+            "sugars_100g": 6.519594822923156,
+            "fiber_100g": 3.0212398942376644,
+            "fat_100g": 24.407009853885583,
+            "proteins_100g": 5.426419193031098,
+            "carbohydrates_100g": 26.375374317441366
+        }
+    },
+    "gnocchi": {
+        "name": "Gnocchi",
+        "kcal": 200,
+        "ingredients": [
+            "patatas",
+            "harina",
+            "huevos",
+            "queso parmesano"
+        ],
+        "sugars": 2,
+        "fiber": 2,
+        "fat": 8,
+        "protein": 6,
+        "carbohydrates": 28,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 2002.1772728701549,
+            "sugars_100g": 9.261808936199815,
+            "fiber_100g": 4.163147620052652,
+            "fat_100g": 25.04056864904583,
+            "proteins_100g": 13.61659256587734,
+            "carbohydrates_100g": 52.418808421282634
+        }
+    },
+    "spring_rolls": {
+        "name": "Rollitos de primavera",
+        "kcal": 100,
+        "ingredients": [
+            "masa de rollito",
+            "verduras",
+            "salsa de soja"
+        ],
+        "sugars": 2,
+        "fiber": 1,
+        "fat": 5,
+        "protein": 3,
+        "carbohydrates": 10,
+        "allergies": [
+            "gluten",
+            "soja"
+        ],
+        "portion": 50,
+        "nutrition": {
+            "energy_100g": 230.4580036278276,
+            "sugars_100g": 2.8287930617978105,
+            "fiber_100g": 0.8555333333333334,
+            "fat_100g": 1.3252274770268775,
+            "proteins_100g": 2.7593764366474742,
+            "carbohydrates_100g": 7.435872167125776
+        }
+    },
+    "greek_salad": {
+        "name": "Ensalada griega",
+        "kcal": 150,
+        "ingredients": [
+            "pepino",
+            "tomate",
+            "queso feta",
+            "aceitunas",
+            "aceite de oliva"
+        ],
+        "sugars": 5,
+        "fiber": 3,
+        "fat": 10,
+        "protein": 4,
+        "carbohydrates": 8,
+        "allergies": [
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 1986.9535898167226,
+            "sugars_100g": 5.252332507047685,
+            "fiber_100g": 3.1895359401660044,
+            "fat_100g": 39.275844551167836,
+            "proteins_100g": 12.803363948836529,
+            "carbohydrates_100g": 17.787489275617016
+        }
+    },
+    "grilled_salmon": {
+        "name": "Salm\u00c3\u00b3n a la parrilla",
+        "kcal": 250,
+        "ingredients": [
+            "salm\u00c3\u00b3n",
+            "aceite de oliva",
+            "lim\u00c3\u00b3n",
+            "especias"
+        ],
+        "sugars": 0,
+        "fiber": 0,
+        "fat": 14,
+        "protein": 28,
+        "carbohydrates": 0,
+        "allergies": [
+            "pescado"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 2374.6469604487825,
+            "sugars_100g": 4.425153737712136,
+            "fiber_100g": 3.7604116695863095,
+            "fat_100g": 47.47857573966036,
+            "proteins_100g": 10.940185755884496,
+            "carbohydrates_100g": 25.60417288246689
+        }
+    },
+    "pancakes": {
+        "name": "Panqueques",
+        "kcal": 220,
+        "ingredients": [
+            "harina",
+            "leche",
+            "huevos",
+            "mantequilla",
+            "az\u00c3\u00bacar"
+        ],
+        "sugars": 10,
+        "fiber": 1,
+        "fat": 10,
+        "protein": 6,
+        "carbohydrates": 28,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos",
+            "huevos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1496.2281290916367,
+            "sugars_100g": 13.031253873072046,
+            "fiber_100g": 2.445089362029706,
+            "fat_100g": 21.808932045649023,
+            "proteins_100g": 7.288231103302143,
+            "carbohydrates_100g": 33.9792502776578
+        }
+    },
+    "french_onion_soup": {
+        "name": "Sopa de cebolla francesa",
+        "kcal": 150,
+        "ingredients": [
+            "cebolla",
+            "caldo de res",
+            "queso",
+            "pan"
+        ],
+        "sugars": 6,
+        "fiber": 2,
+        "fat": 7,
+        "protein": 5,
+        "carbohydrates": 18,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 250,
+        "nutrition": {
+            "energy_100g": 2012.1762235497722,
+            "sugars_100g": 11.6445039367603,
+            "fiber_100g": 4.392403857129841,
+            "fat_100g": 25.95371197576332,
+            "proteins_100g": 18.445218506154188,
+            "carbohydrates_100g": 43.53624566614557
+        }
+    },
+    "french_toast": {
+        "name": "Tostadas francesas",
+        "kcal": 180,
+        "ingredients": [
+            "pan",
+            "huevos",
+            "leche",
+            "canela",
+            "az\u00c3\u00bacar"
+        ],
+        "sugars": 12,
+        "fiber": 1,
+        "fat": 8,
+        "protein": 6,
+        "carbohydrates": 22,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 1183.6798627782825,
+            "sugars_100g": 16.592066152038328,
+            "fiber_100g": 2.67458284536436,
+            "fat_100g": 13.664447023935473,
+            "proteins_100g": 7.843223257226912,
+            "carbohydrates_100g": 32.085851870919115
+        }
+    },
+    "bibimbap": {
+        "name": "Bibimbap",
+        "kcal": 560,
+        "ingredients": [
+            "arroz",
+            "huevos",
+            "carne de res",
+            "vegetales",
+            "salsa gochujang"
+        ],
+        "sugars": 8,
+        "fiber": 4,
+        "fat": 16,
+        "protein": 25,
+        "carbohydrates": 80,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "soja"
+        ],
+        "portion": 250,
+        "nutrition": {
+            "energy_100g": 2691.2476854825422,
+            "sugars_100g": 18.17661496785137,
+            "fiber_100g": 7.607827711711169,
+            "fat_100g": 28.142542682514183,
+            "proteins_100g": 21.827491124058724,
+            "carbohydrates_100g": 75.27624596550021
+        }
+    },
+    "grilled_cheese_sandwich": {
+        "name": "S\u00c3\u00a1ndwich de queso a la parrilla",
+        "kcal": 400,
+        "ingredients": [
+            "pan",
+            "queso",
+            "mantequilla"
+        ],
+        "sugars": 4,
+        "fiber": 2,
+        "fat": 25,
+        "protein": 12,
+        "carbohydrates": 30,
+        "allergies": [
+            "gluten",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 2385.896244066839,
+            "sugars_100g": 9.611304680731457,
+            "fiber_100g": 3.5329693004926055,
+            "fat_100g": 40.89870568261456,
+            "proteins_100g": 14.47430824913727,
+            "carbohydrates_100g": 38.236206112096966
+        }
+    },
+    "mussels": {
+        "name": "Mejillones",
+        "kcal": 150,
+        "ingredients": [
+            "mejillones",
+            "ajo",
+            "vino blanco",
+            "perejil"
+        ],
+        "sugars": 1,
+        "fiber": 0,
+        "fat": 4,
+        "protein": 20,
+        "carbohydrates": 5,
+        "allergies": [
+            "mariscos"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 1638.0366835016835,
+            "sugars_100g": 9.652400888230886,
+            "fiber_100g": 3.50816472950894,
+            "fat_100g": 22.347441187754775,
+            "proteins_100g": 13.959549786951595,
+            "carbohydrates_100g": 29.18288290299952
+        }
+    },
+    "falafel": {
+        "name": "Falafel",
+        "kcal": 333,
+        "ingredients": [
+            "garbanzos",
+            "cebolla",
+            "ajo",
+            "perejil",
+            "especias"
+        ],
+        "sugars": 2,
+        "fiber": 8,
+        "fat": 17,
+        "protein": 13,
+        "carbohydrates": 32,
+        "allergies": [
+            "legumbres"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1422.4116664920375,
+            "sugars_100g": 7.119451921799655,
+            "fiber_100g": 5.8817219470476,
+            "fat_100g": 18.155161496411218,
+            "proteins_100g": 9.423004898929344,
+            "carbohydrates_100g": 34.151992647924516
+        }
+    },
+    "bread_pudding": {
+        "name": "Bud\u00c3\u00adn de pan",
+        "kcal": 290,
+        "ingredients": [
+            "pan",
+            "leche",
+            "az\u00c3\u00bacar",
+            "huevos",
+            "pasas"
+        ],
+        "sugars": 25,
+        "fiber": 1,
+        "fat": 12,
+        "protein": 8,
+        "carbohydrates": 38,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1816.4871304769476,
+            "sugars_100g": 27.83832156431394,
+            "fiber_100g": 5.082187426172197,
+            "fat_100g": 20.096771522605827,
+            "proteins_100g": 12.191655436222117,
+            "carbohydrates_100g": 50.42211452373347
+        }
+    },
+    "paella": {
+        "name": "Paella",
+        "kcal": 350,
+        "ingredients": [
+            "arroz",
+            "pollo",
+            "mariscos",
+            "pimiento",
+            "guisantes",
+            "azafr\u00c3\u00a1n"
+        ],
+        "sugars": 3,
+        "fiber": 3,
+        "fat": 10,
+        "protein": 25,
+        "carbohydrates": 40,
+        "allergies": [
+            "mariscos"
+        ],
+        "portion": 250,
+        "nutrition": {
+            "energy_100g": 1934.735697048306,
+            "sugars_100g": 11.386528383417469,
+            "fiber_100g": 7.797414889907488,
+            "fat_100g": 15.566684729254519,
+            "proteins_100g": 17.32678327337124,
+            "carbohydrates_100g": 60.69704876507254
+        }
+    },
+    "hot_dog": {
+        "name": "Hot dog",
+        "kcal": 290,
+        "ingredients": [
+            "pan de hot dog",
+            "salchicha",
+            "mostaza",
+            "ketchup"
+        ],
+        "sugars": 5,
+        "fiber": 1,
+        "fat": 18,
+        "protein": 10,
+        "carbohydrates": 20,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 665.7077244252466,
+            "sugars_100g": 7.995846033308998,
+            "fiber_100g": 1.505730638926291,
+            "fat_100g": 8.28013859154657,
+            "proteins_100g": 6.200058915310696,
+            "carbohydrates_100g": 14.892046715732846
+        }
+    },
+    "creme_brulee": {
+        "name": "Cr\u00c3\u00a8me br\u00c3\u00bbl\u00c3\u00a9e",
+        "kcal": 220,
+        "ingredients": [
+            "nata",
+            "huevos",
+            "az\u00c3\u00bacar",
+            "vainilla"
+        ],
+        "sugars": 22,
+        "fiber": 0,
+        "fat": 12,
+        "protein": 4,
+        "carbohydrates": 25,
+        "allergies": [
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 916.3209956206642,
+            "sugars_100g": 15.400260811841207,
+            "fiber_100g": 1.2600425237707147,
+            "fat_100g": 11.429852972911164,
+            "proteins_100g": 5.93007316936593,
+            "carbohydrates_100g": 22.913444058810782
+        }
+    },
+    "baby_back_ribs": {
+        "name": "Costillas de cerdo",
+        "kcal": 320,
+        "ingredients": [
+            "costillas de cerdo",
+            "salsa barbacoa",
+            "especias"
+        ],
+        "sugars": 8,
+        "fiber": 0,
+        "fat": 22,
+        "protein": 25,
+        "carbohydrates": 10,
+        "allergies": [],
+        "portion": 150,
+        "nutrition": {
+            "energy_100g": 1281.7585377358491,
+            "sugars_100g": 19.0921875,
+            "fiber_100g": 2.6908536585365854,
+            "fat_100g": 14.466201921586805,
+            "proteins_100g": 7.039326934997849,
+            "carbohydrates_100g": 37.689433962264154
+        }
+    },
+    "pulled_pork_sandwich": {
+        "name": "S\u00c3\u00a1ndwich de cerdo desmenuzado",
+        "kcal": 450,
+        "ingredients": [
+            "pan de hamburguesa",
+            "cerdo desmenuzado",
+            "salsa barbacoa",
+            "ensalada de col"
+        ],
+        "sugars": 12,
+        "fiber": 2,
+        "fat": 22,
+        "protein": 28,
+        "carbohydrates": 45,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 1792.1666666666667,
+            "sugars_100g": 24.450000000000003,
+            "fiber_100g": 5.45,
+            "fat_100g": 26.64999999801318,
+            "proteins_100g": 15.450000015894567,
+            "carbohydrates_100g": 77.13333333333333
+        }
+    },
+    "dumplings": {
+        "name": "Dumplings",
+        "kcal": 150,
+        "ingredients": [
+            "masa de dumpling",
+            "carne de cerdo",
+            "repollo",
+            "cebolla",
+            "jengibre"
+        ],
+        "sugars": 2,
+        "fiber": 1,
+        "fat": 7,
+        "protein": 8,
+        "carbohydrates": 16,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 100,
+        "nutrition": {
+            "energy_100g": 901.9933152454781,
+            "sugars_100g": 5.853110847804724,
+            "fiber_100g": 3.11505787037037,
+            "fat_100g": 11.673755297076761,
+            "proteins_100g": 7.407403100682784,
+            "carbohydrates_100g": 20.880368217054265
+        }
+    },
+    "ramen": {
+        "name": "Ramen",
+        "kcal": 450,
+        "ingredients": [
+            "fideos de ramen",
+            "caldo",
+            "cerdo",
+            "huevo",
+            "cebolla",
+            "algas"
+        ],
+        "sugars": 5,
+        "fiber": 3,
+        "fat": 18,
+        "protein": 20,
+        "carbohydrates": 55,
+        "allergies": [
+            "gluten",
+            "huevos"
+        ],
+        "portion": 400,
+        "nutrition": {
+            "energy_100g": 3425.6544941190855,
+            "sugars_100g": 15.428456253663489,
+            "fiber_100g": 21.582516666666667,
+            "fat_100g": 40.49392127965232,
+            "proteins_100g": 44.3612780932241,
+            "carbohydrates_100g": 65.98459485457545
+        }
+    },
+    "cheesecake": {
+        "name": "Tarta de queso",
+        "kcal": 320,
+        "ingredients": [
+            "queso crema",
+            "az\u00c3\u00bacar",
+            "huevos",
+            "galletas"
+        ],
+        "sugars": 25,
+        "fiber": 1,
+        "fat": 22,
+        "protein": 7,
+        "carbohydrates": 28,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00c3\u00a1cteos"
+        ],
+        "portion": 125,
+        "nutrition": {
+            "energy_100g": 1663.0045457382814,
+            "sugars_100g": 15.792334343402718,
+            "fiber_100g": 2.4308866100472066,
+            "fat_100g": 23.82061753413482,
+            "proteins_100g": 9.074327347484841,
+            "carbohydrates_100g": 37.766698685075944
+        }
+    },
+    "spaghetti_bolognese": {
+        "name": "Espaguetis a la bolo\u00c3\u00b1esa",
+        "kcal": 350,
+        "ingredients": [
+            "espaguetis",
+            "carne de res",
+            "tomate",
+            "cebolla",
+            "ajo",
+            "zanahoria"
+        ],
+        "sugars": 10,
+        "fiber": 4,
+        "fat": 12,
+        "protein": 20,
+        "carbohydrates": 45,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 250,
+        "nutrition": {
+            "energy_100g": 2142.2502136333196,
+            "sugars_100g": 13.067058078909772,
+            "fiber_100g": 7.872762945093981,
+            "fat_100g": 18.565411832188563,
+            "proteins_100g": 16.835731410240697,
+            "carbohydrates_100g": 68.10946727015612
+        }
+    },
+    "huevos_rancheros": {
+        "name": "Huevos rancheros",
+        "kcal": 300,
+        "ingredients": [
+            "huevos",
+            "tortillas",
+            "tomate",
+            "cebolla",
+            "frijoles"
+        ],
+        "sugars": 5,
+        "fiber": 6,
+        "fat": 15,
+        "protein": 15,
+        "carbohydrates": 30,
+        "allergies": [
+            "huevos",
+            "gluten"
+        ],
+        "portion": 200,
+        "nutrition": {
+            "energy_100g": 1729.5773276865214,
+            "sugars_100g": 10.668240820219602,
+            "fiber_100g": 5.84597270446698,
+            "fat_100g": 19.524966508027937,
+            "proteins_100g": 12.801380635440035,
+            "carbohydrates_100g": 45.799331902170984
+        }
+    }
+}
