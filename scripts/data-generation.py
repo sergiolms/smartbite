@@ -110,10 +110,10 @@ dtypes = {
 # we use dask to read it. The delimiter is a tab.
 # ---------------IMPORTANT----------------
 # Because the file is very large, it has not been uploaded to Github. Therefore, it must be downloaded and placed in the data folder.
-ddf = dd.read_csv('./data/openfoodfacts.data.csv', delimiter='\t' ,dtype=dtypes)
+ddf = dd.read_csv('../openfoodfacts-implementation/data/openfoodfacts.data.csv', delimiter='\t' ,dtype=dtypes)
 
 # We load the JSON with the old food information 
-with open('./data/.old/food_info.json') as f:
+with open('../openfoodfacts-implementation/data/.old/food_info.json') as f:
     food_info = json.load(f)
     
 # Calculate nutritional values ​​for each recipe in the JSON. It might take a while.
@@ -161,5 +161,5 @@ for recipe_name, recipe_info in food_info.items():
     del recipe_info['nutrition']
     
 # We save the JSON with the food information from OpenFoodFacts
-with open('./data/food_info.json', 'w') as f:
+with open('../datasource/food_info/food_info.json', 'w') as f:
     json.dump(food_info, f, indent=4)
