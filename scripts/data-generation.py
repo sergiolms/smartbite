@@ -13,7 +13,7 @@ Check the source of the dataset: https://world.openfoodfacts.org/data
 import pandas as pd
 import dask.dataframe as dd
 import json
-   
+
 def get_average_nutrition(ddf: dd.DataFrame , ingredient: str) -> pd.Series:
     """Function to get the average nutritional values of an ingredient in the Dask DataFrame
 
@@ -54,21 +54,14 @@ def get_recipe_nutrition(ddf: dd.DataFrame, recipe: dict) -> pd.Series:
     
     # For each ingredient in the dish, we calculate the average nutritional values
     for ingredient in ingredients:
-        average_nutrition = get_average_nutrition(ddf, ingredient)
+        average_nutrition = get_average_nutrition(ddf, ingredient['name'])
         # If the ingredient has no nutritional values, we do not count it
         if not average_nutrition.isnull().any():
-            total_nutrition += average_nutrition
-            count += 1
-    
-    # If there is more than one ingredient, we calculate the average nutritional values
-    if count > 0:
-        average_nutrition = total_nutrition / count
-    else:
-        average_nutrition = total_nutrition
+            total_nutrition += average_nutrition * ingredient['proportion']
     
     # Adjust nutritional values ​​according to serving
     multiplier = portion_size / 100
-    recipe_nutrition = average_nutrition * multiplier
+    recipe_nutrition = total_nutrition * multiplier
     
     return recipe_nutrition
 
