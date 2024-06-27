@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
 
 .uploadInput {
-    margin-bottom: 2rem;
+    margin: 0 auto 2rem auto;
+    max-width: 800px;
+    width: 100%;
     border: 1px solid rgba(var(--accent-light), 25%);
     background: linear-gradient(rgba(var(--accent-dark), 66%), rgba(var(--accent-dark), 33%));
     padding: 1.5rem;
@@ -38,6 +40,7 @@
 	color: #232323;
 	border: 4px dashed #aaa;
 	border-radius: 8px;
+    cursor: pointer;
 }
 
 .dragging {

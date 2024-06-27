@@ -22,6 +22,7 @@ const getClient = (() => {
 
 export default function Home() {
   const [items, setItems] = useState([]);
+  const [registeredDishes, setRegisteredDishes] = useState([]);
   
   const addItemToList = (image, data) => {
    setItems([...items, <Card
@@ -29,6 +30,7 @@ export default function Home() {
       image={image}
       data={data}
     />]);
+    setRegisteredDishes([...registeredDishes, data]);
   }
 
   const makePrediction = async (file) => {
@@ -51,6 +53,14 @@ export default function Home() {
     <div id="main">
       <h1><span className="text-gradient">SmartBite</span> <small>eat wiser</small></h1>
       <DragAndDrop onSubmit={makePrediction}/>
+      {
+        registeredDishes.length > 0 && <p className="calorie-intake">Calorías registradas hasta ahora: <span className="kcal">{
+          registeredDishes.reduce((acc, it)=> {
+            console.log(registeredDishes, it, acc)
+            return acc + it.kcal
+          }, 0)
+        }</span></p>
+      }
       <ul className="link-card-grid">
         {items}
       </ul>
